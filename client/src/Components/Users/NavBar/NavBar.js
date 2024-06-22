@@ -29,7 +29,7 @@ const NavBar = ({size}) => {
             {/* <span className="font-bold  text-lg text-black">{size} Items</span> */}
             {/* <span className="text-info">Subtotal: Ar999</span> */}
             <div className="card-actions">
-              <Link to={"/Cart"} className="btn btn-primary btn-block">View cart</Link>
+              <Link to={"/Cart"} className="btn btn-primary btn-block">View cart ZZZZZZ</Link>
             </div>
           </div>
         </div>
