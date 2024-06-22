@@ -1,0 +1,30 @@
+.Contactgeneral {
+    background-color: #bf5700;
+    width: 100%;
+    height: 100vh;
+    display: flex;
+    padding-top: 3%;
+    padding-bottom: 3%;
+    padding-right: 2%;
+    padding-left: 2%;
+}
+
+.conatct1 {
+    background-color: aliceblue;
+    width: 50%;
+    padding-left: 4%;
+    padding-right: 2%;
+    padding-top: 2%;
+    padding-bottom: 4%;
+}
+
+.conatct2 {
+    background-image: url("../Images/Boissonssary.jpg");
+    width: 50%;
+    color: aliceblue;
+    padding-top: 0%;
+    padding-left: 6%;
+    padding-right: 6%;
+    padding-top: 4%;
+
+}

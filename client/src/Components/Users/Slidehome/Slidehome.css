@@ -1,0 +1,6 @@
+.container-style {
+    height: 2000px; /* Utiliser 100% de la hauteur de la fenêtre */
+    background-repeat: no-repeat; /* Empêcher la répétition de l'image de fond */
+    background-size: cover; /* Redimensionner l'image de fond pour couvrir entièrement le conteneur */
+    background-position: center; /* Centrer l'image de fond dans le conteneur */
+}

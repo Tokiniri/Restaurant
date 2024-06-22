@@ -1,0 +1,13 @@
+.FontNumero1{
+    background-image: url("../Images/fontnumero2.png");
+    height: 100vh; /* Utiliser 100% de la hauteur de la fenêtre */
+    background-repeat: no-repeat; /* Empêcher la répétition de l'image de fond */
+    background-size: cover; /* Redimensionner l'image de fond pour couvrir entièrement le conteneur */
+    background-position: center; /* Centrer l'image de fond dans le conteneur */
+}
+
+.FontNumero2 {
+    background-color: rgba(205, 205, 204, 0);
+    width: 100%;
+    height: 100%;
+}

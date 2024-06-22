@@ -1,0 +1,14 @@
+
+.ModalModifierEntre {
+    width: 50%;
+    height: 80vh;
+    background-color: whitesmoke;
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    border-radius: 30px;
+    box-shadow: 0px 0px 10px black;
+    padding: 2%;
+    z-index: 9999; /* Assurez-vous que le z-index est supérieur à celui des autres éléments */
+}

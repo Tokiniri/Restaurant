@@ -1,0 +1,63 @@
+.commandes-page {
+    background-color: #f8f8f8;
+    min-height: 100vh;
+    padding: 20px;
+  }
+  
+  .commandes-container {
+    background-color: #ffffff;
+    border-radius: 8px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    padding: 20px;
+  }
+  
+  .header {
+    text-align: center;
+    margin-bottom: 20px;
+  }
+  
+  .table-auto {
+    border-collapse: collapse;
+    width: 100%;
+    margin-top: 20px;
+  }
+  
+  .table-auto th, .table-auto td {
+    border-bottom: 1px solid #e0e0e0;
+    padding: 12px 15px;
+    text-align: left;
+  }
+  
+  .table-auto th {
+    background-color: #f4f4f4;
+  }
+  
+  .table-auto tbody tr:hover {
+    background-color: #f1f1f1;
+  }
+  
+  .checkbox {
+    margin: 0;
+  }
+  
+  .avatar .mask {
+    border-radius: 50%;
+    overflow: hidden;
+  }
+  
+  .badge-ghost {
+    background-color: transparent;
+    color: #555;
+    border: 1px solid #ddd;
+  }
+  
+  .btn-ghost {
+    color: #555;
+    background-color: transparent;
+    border: 1px solid #ddd;
+  }
+  
+  .btn-ghost:hover {
+    background-color: #f4f4f4;
+  }
+   

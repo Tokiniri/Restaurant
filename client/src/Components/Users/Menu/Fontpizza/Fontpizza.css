@@ -1,0 +1,24 @@
+.FontPizza1 {
+    background-image: url(../../Images/Pizza.jpg);
+    height: 100vh; /* Utiliser 100% de la hauteur de la fenêtre */
+    background-repeat: no-repeat; /* Empêcher la répétition de l'image de fond */
+    background-size: cover; /* Redimensionner l'image de fond pour couvrir entièrement le conteneur */
+    background-position: center; /* Centrer l'image de fond dans le conteneur */
+    padding-left: 10%;
+    padding-top: 10%;
+}
+
+.titrenotremenu {
+    color: rgb(255, 255, 255);
+    font-size: 4rem;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.textnotremenu {
+    color: rgb(255, 255, 255);
+    width: 60%;
+    height: auto;
+    background-color: rgba(124, 124, 121, 0.482);
+    font-size: 1.25rem;
+    margin-top: 2%;
+}

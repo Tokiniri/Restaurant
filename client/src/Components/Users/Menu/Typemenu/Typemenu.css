@@ -1,0 +1,37 @@
+.Lestypemenu {
+    background-color: rgb(255, 255, 255);
+    height: auto;
+    margin-bottom: 5%;
+    margin-top: 1%;
+}
+  
+.divtypemenuG {
+  margin: 2%;
+  margin-left: 15%;
+  width: 70%;
+  height: auto;
+  background-color: antiquewhite;
+  box-shadow:0px 0px 10px black;
+  padding: 5%;
+}
+
+.part1 {
+  display: flex;
+}
+
+.buttin1{
+  border: 2px solid black;
+  border-radius: 30px;
+  padding: 10%;
+  cursor: pointer;
+}
+
+.buttin1:hover{
+  border-color: #bf560069; /* Changement de la couleur de la bordure au survol */
+  box-shadow: 0 0 20px #bf56006e; /* Augmentation de l'ombre au survol */
+}
+
+.buttin1:active {
+  background-color: rgb(202, 92, 24); /* Changement de couleur de fond lorsque le bouton est cliqué */
+  color: aliceblue;
+}

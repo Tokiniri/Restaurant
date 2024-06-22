@@ -1,0 +1,9 @@
+.swiper-slide img {
+    height: 200px; /* Choisissez la hauteur souhaitée */
+    width: auto; /* Optionnel : pour conserver les proportions de l'image */
+  }
+  .swiper-slide img {
+    height: 200px; /* Choisissez la hauteur souhaitée */
+    width: 100%; /* Définir la largeur sur 100% pour remplir complètement le conteneur */
+    object-fit: cover; /* Optionnel : pour conserver les proportions de l'image et remplir le conteneur */
+  }  

@@ -1,0 +1,50 @@
+.Boissonsglobal {
+    display: flex;
+    background-color: whitesmoke;
+}
+
+.pizza-title {
+    color: #bf5700; /* Couleur orangée qui évoque une pizza */
+    text-align: center; /* Centrage horizontal */
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5); /* Ombre portée */
+    animation: pulse 2s infinite alternate; /* Animation */
+  }
+  
+  @keyframes pulse {
+    0% {
+      transform: scale(1);
+    }
+    100% {
+      transform: scale(1.1);
+    }
+  }
+  
+
+
+.buttonsakafo {
+    border: 1px solid rgb(0, 136, 255); 
+    border-radius: 10px;
+    color: rgb(0, 136, 255);
+    padding: 4% 10% 4% 10%;
+    transition: border-color 0.3s, box-shadow 0.3s, background-color 0.3s; /* Ajoute une transition pour une animation fluide */
+}
+
+.buttonsakafo:hover {
+    border-color: rgb(0, 136, 255); /* Changement de la couleur de la bordure au survol */
+    box-shadow: 0 0 20px rgb(0, 136, 255); /* Augmentation de l'ombre au survol */
+}
+
+.buttonsakafo:active {
+    background-color: rgb(0, 136, 255); /* Changement de couleur de fond lorsque le bouton est cliqué */
+    color: aliceblue;
+}
+
+.Etoile {
+    display: flex;
+    justify-content: center;
+    align-items: center; /* Alignement vertical au centre */
+    color: gold;
+    margin-bottom: 5px; 
+    margin-top:-10px ;  
+}
+
